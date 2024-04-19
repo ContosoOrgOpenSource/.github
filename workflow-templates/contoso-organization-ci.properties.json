@@ -1,0 +1,13 @@
+{
+    "name": "Contoso Organization Workflow",
+    "description": "Contoso Organization CI starter workflow.",
+    "iconName": "device-desktop",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
